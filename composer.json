@@ -1,0 +1,11 @@
+{
+    "name": "orijit/composer_quest",
+    "description": "Quete composer 5.1",
+    "authors": [
+        {
+            "name": "Orijma",
+            "email": "remymarquentin@gmail.com"
+        }
+    ],
+    "require": {}
+}
